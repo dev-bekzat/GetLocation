@@ -1,0 +1,47 @@
+'cloud.exe' (Win32): Loaded 'C:\Users\devbe\source\repos\cloud\Debug\cloud.exe'. Symbols loaded.
+'cloud.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'cloud.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'cloud.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'cloud.exe' (Win32): Loaded 'C:\Users\devbe\source\repos\cloud\Debug\libcurl-d.dll'. Symbols loaded.
+'cloud.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ws2_32.dll'. 
+'cloud.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+'cloud.exe' (Win32): Loaded 'C:\Windows\SysWOW64\advapi32.dll'. 
+'cloud.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'cloud.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. 
+'cloud.exe' (Win32): Loaded 'C:\Windows\SysWOW64\crypt32.dll'. 
+'cloud.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbase.dll'. 
+'cloud.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'cloud.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'cloud.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+'cloud.exe' (Win32): Loaded 'C:\Users\devbe\source\repos\cloud\Debug\zlibd1.dll'. Symbols loaded.
+'cloud.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcrypt.dll'. 
+The thread 0x263c has exited with code 0 (0x0).
+'cloud.exe' (Win32): Loaded 'C:\Windows\SysWOW64\secur32.dll'. 
+'cloud.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sspicli.dll'. 
+'cloud.exe' (Win32): Loaded 'C:\Windows\SysWOW64\IPHLPAPI.DLL'. 
+'cloud.exe' (Win32): Loaded 'C:\Windows\SysWOW64\mswsock.dll'. 
+'cloud.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'cloud.exe' (Win32): Loaded 'C:\Windows\SysWOW64\dnsapi.dll'. 
+'cloud.exe' (Win32): Loaded 'C:\Windows\SysWOW64\nsi.dll'. 
+'cloud.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rasadhlp.dll'. 
+'cloud.exe' (Win32): Loaded 'C:\Windows\SysWOW64\FWPUCLNT.DLL'. 
+The thread 0x190 has exited with code 0 (0x0).
+'cloud.exe' (Win32): Loaded 'C:\Windows\SysWOW64\schannel.dll'. 
+'cloud.exe' (Win32): Loaded 'C:\Windows\SysWOW64\mskeyprotect.dll'. 
+'cloud.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntasn1.dll'. 
+'cloud.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ncrypt.dll'. 
+'cloud.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ncryptsslp.dll'. 
+'cloud.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. 
+The thread 0x3f90 has exited with code 0 (0x0).
+The thread 0x33a8 has exited with code 0 (0x0).
+The thread 0x4154 has exited with code 0 (0x0).
+The thread 0xec0 has exited with code 0 (0x0).
+The thread 0x1a80 has exited with code 0 (0x0).
+The thread 0x42f0 has exited with code 0 (0x0).
+The thread 0x134c has exited with code 0 (0x0).
+The thread 0x40e4 has exited with code 0 (0x0).
+The thread 0x431c has exited with code 0 (0x0).
+The thread 0x2288 has exited with code 0 (0x0).
+The thread 0x2fc has exited with code 0 (0x0).
+The thread 0x1f0c has exited with code 0 (0x0).
+The program '[17356] cloud.exe' has exited with code 0 (0x0).

@@ -1,0 +1,4 @@
+C:\Users\devbe\source\repos\cloud\Debug\cloud.exe
+C:\Users\devbe\source\repos\cloud\Debug\cloud.vcxproj.CopyComplete
+C:\Users\devbe\source\repos\cloud\Debug\libcurl-d.dll
+C:\Users\devbe\source\repos\cloud\Debug\zlibd1.dll
